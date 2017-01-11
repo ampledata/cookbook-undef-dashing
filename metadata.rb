@@ -1,0 +1,10 @@
+name             'undef-dashing'
+maintainer       'Greg Albrecht'
+maintainer_email 'oss@undef.net'
+license          'All rights reserved'
+description      'Installs/Configures undef-dashing'
+long_description 'Installs/Configures undef-dashing'
+version          '1.0.0'
+
+depends 'nodejs'
+depends 'rbenv'
